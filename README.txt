@@ -1,4 +1,7 @@
-﻿This document outlines the download, extraction, generation, and discrimination tasks required by Homework 2 and guides you to the corresponding Python source codes and relevant files.
+See full content here
+https://drive.google.com/drive/folders/1LeKzBZsHaU9XlBDACsqtPBjndgpOcl1Q?usp=sharing
+
+This document outlines the download, extraction, generation, and discrimination tasks required by Homework 2 and guides you to the corresponding Python source codes and relevant files.
 
 
 Final Dataset: TSV_v2.tsv
